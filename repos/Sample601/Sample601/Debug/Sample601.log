@@ -1,0 +1,6 @@
+﻿  601.cpp
+  602.cpp
+  コードを生成中...
+  LINK : 前回のインクリメンタル リンクで C:\Users\adsol\source\repos\Sample601\Debug\Sample601.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+602.obj : error LNK2005: _main は既に 601.obj で定義されています。
+C:\Users\adsol\source\repos\Sample601\Debug\Sample601.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。

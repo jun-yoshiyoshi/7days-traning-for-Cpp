@@ -1,0 +1,4 @@
+﻿  ソース.cpp
+C:\Users\adsol\source\repos\Sample604\Sample604\ソース.cpp(17,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\adsol\source\repos\Sample604\Sample604\ソース.cpp(22,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Sample604.vcxproj -> C:\Users\adsol\source\repos\Sample604\Debug\Sample604.exe
